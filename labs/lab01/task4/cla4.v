@@ -78,3 +78,4 @@ module cla4(
   xor #(2,3) (sum[3], p3, c3);
 
 endmodule
+
