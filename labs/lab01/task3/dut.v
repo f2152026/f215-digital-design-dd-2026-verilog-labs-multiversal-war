@@ -14,6 +14,7 @@ module dut(
 );
 
 
+
    rca U_IMPL (.a(a), .b(b), .cin(cin), .sum(sum), .cout(cout));
 
 // cla4 U_IMPL (.a(a), .b(b), .cin(cin), .sum(sum), .cout(cout));
