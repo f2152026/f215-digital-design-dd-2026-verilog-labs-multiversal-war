@@ -20,6 +20,7 @@ module ripple_adder(
   output       cout
 );
 
+
   wire c1, c2, c3;
 
 
