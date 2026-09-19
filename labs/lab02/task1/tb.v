@@ -7,6 +7,7 @@ module tb;
 
   reg t_i0, t_i1, t_s;
   wire t_y;
+  
 
   DUT DUT (
     .I0(t_i0),
